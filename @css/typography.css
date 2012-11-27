@@ -1,0 +1,36 @@
+body{
+    font-size:14px; font-family:UniversLTStd57Condensed, Arial, Helvetica, sans-serif; 
+    line-height: 18px; 
+    color:#333333;
+    display: block;
+}
+
+p{
+    margin: 0px 0px 10px 0px;
+}
+
+h1{
+  font-weight: normal; 
+  font-size: 20px;
+  font-family:UniversLTStd67BoldCondensed, Arial, Helvetica, sans-serif;
+  line-height: 30px;
+  text-transform: uppercase;
+}
+
+h2{
+  font-weight: normal; 
+  font-size: 14px;
+  font-family:UniversLTStd67BoldCondensed, Arial, Helvetica, sans-serif;
+  line-height: 20px;
+  text-transform: uppercase;
+}
+
+a{
+    color:#333333;
+}
+a:hover{
+    color:#555555;
+}
+a:visited{
+    color:#555555;
+}
